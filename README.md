@@ -1,9 +1,7 @@
-﻿Idea将代码上传到github，并更新代码
+﻿git commit -m "first commit"
 
-echo "# Test" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/KingJin-web/Test.git
-git push -u origin master
-                
+git branch -M main
+
+git remote add origin https://github.com/KingJin-web/Fight-the-Landlord.git
+
+git push -u origin main
