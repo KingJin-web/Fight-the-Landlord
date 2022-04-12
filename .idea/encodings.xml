@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8" addBOMForNewFiles="with BOM">
+    <file url="file://$PROJECT_DIR$/src/com/ddz/Dao/Dao.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/Card.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/CardType.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/Common.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/His_Ach.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/Model.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/Time.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/model/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/com/ddz/util/CreatedIcon.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ddzview/Main.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ddzview/ZhuCeJFrame.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ddzview/ddzframe.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ddzview/login.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/ddzview/menuJframe.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
